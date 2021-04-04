@@ -8,10 +8,4 @@
  
  
  
- 
- 
- 
- 
- 
- 
- ajax-contact-form
+
